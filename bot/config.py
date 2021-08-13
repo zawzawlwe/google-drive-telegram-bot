@@ -3,7 +3,7 @@ class config:
     APP_ID = "6660481"
     API_HASH = "874c349be97bbcd1ad6a3562589b5d3d"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "1791446058" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "867042696756-nrcbgp49d05jkbs8gv52vkjtgt83t9uh.apps.googleusercontent.com"
